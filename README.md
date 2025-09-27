@@ -1,16 +1,3 @@
-Got it 🙌 I’ll put together a **full README.md** with everything:
-
-- Intro
-- Features
-- Setup & OAuth
-- Usage
-- Example logs
-- Notes
-
-Here it is 👇
-
----
-
 # 🏃‍♂️ Runkeeper → Strava GPX Uploader
 
 A Python tool to upload manually exported **GPX files** (from Runkeeper or any GPS source) to **Strava** via the Strava API.
