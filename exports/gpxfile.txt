@@ -1,0 +1,4 @@
+Put your GPX file here
+
+rk2strava/
+│── exports/
